@@ -1,0 +1,96 @@
+/*
+Theme Name: Practice
+Author: Bryan CS
+Description: A practice theme for WP
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+
+
+body{	
+	font-family: calibri, arial, verdana;
+	background-color: #D5D6CF;
+}
+
+a:link {
+	text-decoration: none;
+	color: #0F8EFF;
+}
+a:visited {
+	color: #0F8EFF;
+}
+
+.header {
+	
+}
+
+.header h1 {	
+	margin: 0;
+	padding: 20px 0 20px 15px;	
+	background-color: #0F8EFF;
+}
+
+.header h1 a{
+	color: #FFF;
+}
+
+.nav-menu-class {
+	margin-top: 20px;
+	background-color: #0F8EFF;
+}
+
+.nav-menu-class ul {			
+	padding: 15px;
+}
+
+.nav-menu-class ul li{
+	list-style-type: none;	
+	display: inline;
+	margin-right: 10px;	
+}
+
+.nav-menu-class ul li a {
+	color: #FFF;
+	text-decoration: none;
+	font-size: 20px;	
+	padding: 15px;
+}
+
+.nav-menu-class ul li a:hover{
+	color: #0F8EFF;
+	background: #FFF;	
+}
+
+.main-wrapper {
+	margin: 0 auto;
+	width: 960px;			
+	background-color: #FFF;
+}
+
+.content-wrapper {	
+	overflow: auto;
+	margin: 0 15px;
+}
+
+.content, .sidebar {	
+	float: left;
+}
+
+.content{
+	width: 725px;			
+}
+
+.sidebar {
+	margin-left: 15px;	
+	width: 185px;		
+	
+}
+
+.footer {	
+	color: #FFFFFF;
+	text-align: center;
+	padding: 5px;
+	background-color: #0F8EFF;	
+}

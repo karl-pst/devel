@@ -1,0 +1,409 @@
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015Eeh4ztMTyiFKwFZujxDksBTSQ7i1qfICdhFCkrJQtjw
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726877301140312880612529
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015hiKclf4jdykMriYf94KvKnXXw96V.txV-57iBPGQDuA
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726877895140312999761239
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015dgoxHjCfqfAoX4jgQCBEtS.kA0PQyJMjcU6k.Mjs2Nw
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726877899140313007964566
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015IGjnJaUPDZyinf03w-Ydll0RMQqBkuFP-A1EafZYk9U
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726878196140313042520355
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A0155Yh6CAddMdN307YR5gTofb8bk5Z0.ydeWIrosHE1pMU
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879265140313230639011
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015Iuqg0uuUiYaLKbCv4QcWXfEbNS.PhmKcMHgMGCBi4ZU
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879445140313388534742
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015WYfZ2id5P-CRS8f9dzIglLaHNILsF1th36MQZBH3UWI
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879623140313515731769
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015NC54vGeXZ7XFFYPVNn0EW7awk5MgPDKBkgOpwY9LU2k
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879621140313517245063
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015sDcbKu3WBn5YK75EjQo1THwIoUbTxhPzPeXpbH8OuL8
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687962114031351795219
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015VHi3TX7wTt8RyqgmfGs9oSirRqE9FNrfcY48ABw8RyE
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879616140313524743634
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015O2PrcWpc6A2dyx5g..YhLqwLJI9UHeRxvO.sSs7gfqs
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879623140313571431946
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015UsbeGTzV4wHSrujkgqeXqlNVSpcrxyII5I4XGqeUTsM
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879618140313572930770
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A0159ESrl.kHXLqkfTGIrzfTXGsABFq52PmP4IcVSajUC1s
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687961814031357357774
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A0153m7wOZlPY0orhc.7LXMj5AmfljD6H..RYAn7V66mIQk
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879622140313582246860
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015LOu79XaptbrsVgwiTRhBqnn5wUpwTSO3w.jUMi2Q.d8
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 16777268796211403150190890
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A01529xZxsLP4CAAF1f84XeIX3k8QbQkWoRwyf0JptjAXAY
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687961514031508677334
+PayPal\Transport\PPRestCall: {"id":"PAY-1RL67583WY931593LKORGEFY","create_time":"2014-06-19T04:07:51Z","update_time":"2014-06-19T04:07:51Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"1.00","currency":"USD","details":{"subtotal":"1.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-1RL67583WY931593LKORGEFY","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-5MK16481JK184723N","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-1RL67583WY931593LKORGEFY/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080\/sample\/sample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080\/sample\/sample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"1.00"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015vZ3tPsoPehmrIS0Q9Om80H0X.1HX2wVcejVgiS.0vl4
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879624140315102056828
+PayPal\Transport\PPRestCall: {"id":"PAY-3EV71184EJ989782EKORGFMA","create_time":"2014-06-19T04:10:24Z","update_time":"2014-06-19T04:10:24Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"1.00","currency":"USD","details":{"subtotal":"1.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-8MX265290G102154H","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA
+PayPal\Core\PPHttpConnection: Payload 
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015kwPOnFMHOqG93PuTP8w7cZONnY9SVU-0PtmJOl0Fev0
+PayPal\Transport\PPRestCall: {"id":"PAY-3EV71184EJ989782EKORGFMA","create_time":"2014-06-19T04:10:24Z","update_time":"2014-06-19T04:10:24Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":"Buyer Account"}}},"transactions":[{"amount":{"total":"1.00","currency":"USD","details":{"subtotal":"1.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-8MX265290G102154H","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA/execute
+PayPal\Core\PPHttpConnection: Payload {"payer_id":"TS8JU48BYSKSC"}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015kwPOnFMHOqG93PuTP8w7cZONnY9SVU-0PtmJOl0Fev0
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879623140315110537877
+PayPal\Transport\PPRestCall: {"id":"PAY-3EV71184EJ989782EKORGFMA","create_time":"2014-06-19T04:10:24Z","update_time":"2014-06-19T04:11:53Z","state":"approved","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","line2":"","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":""}}},"transactions":[{"amount":{"total":"1.00","currency":"USD","details":{"subtotal":"1.00"}},"description":"This is the payment description.","related_resources":[{"sale":{"id":"4UL239128C500121W","create_time":"2014-06-19T04:10:24Z","update_time":"2014-06-19T04:11:53Z","state":"completed","amount":{"total":"1.00","currency":"USD"},"parent_payment":"PAY-3EV71184EJ989782EKORGFMA","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/sale/4UL239128C500121W","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/payments/sale/4UL239128C500121W/refund","rel":"refund","method":"POST"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA","rel":"parent_payment","method":"GET"}]}}]}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-3EV71184EJ989782EKORGFMA","rel":"self","method":"GET"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":3},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A0157zrMhxpCIoWm0Ow2HfDpZAacHhQ05qFR8PJD5cPwcAM
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879617140315660238828
+PayPal\Transport\PPRestCall: {"id":"PAY-1D774224W2652362VKORHQ7Q","create_time":"2014-06-19T05:43:26Z","update_time":"2014-06-19T05:43:26Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-1D774224W2652362VKORHQ7Q","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-9V56756076722782E","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-1D774224W2652362VKORHQ7Q/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"3"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015prfbRpFxEWSddxQyDSrdHpTHc3g6dND5J7i-naBk1LQ
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879619140315677061744
+PayPal\Transport\PPRestCall: {"id":"PAY-12L61510GM3856608KORHSKA","create_time":"2014-06-19T05:46:16Z","update_time":"2014-06-19T05:46:17Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-12L61510GM3856608KORHSKA","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-0P130446B1849035W","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-12L61510GM3856608KORHSKA/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:8080\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"3"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015mym0awooeKFr0B8UxGByXD4E26KRnbsy3O6ANwvQzto
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726879623140315729343931
+PayPal\Transport\PPRestCall: {"id":"PAY-74746501EV358714PKORHWMI","create_time":"2014-06-19T05:54:57Z","update_time":"2014-06-19T05:54:57Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-74746501EV358714PKORHWMI","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-2HP713640V448244A","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-74746501EV358714PKORHWMI/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:80\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:80\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"3"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015o0q6lxLdZVQDUtmUJtK7OA2EaqnSD-L-2d.WHX9mudc
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687976140320662544808
+PayPal\Transport\PPRestCall: {"id":"PAY-9CL71103DE956953DKORTX2A","create_time":"2014-06-19T19:37:12Z","update_time":"2014-06-19T19:37:12Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-9CL71103DE956953DKORTX2A","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-4PD67698PM463494M","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-9CL71103DE956953DKORTX2A/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1:80\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1:80\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"24"},"item_list":{"items":{"quantity":"3","name":"10 VC","price":"8","currency":"USD"}},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A0150npdiJpqEf4DWsV80KwUUzBPuFkoXbtDjWfGtm-xz-k
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687979140321077756659
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"24"},"item_list":{"items":{"quantity":"3","name":"10 VC","price":"8","currency":"USD"}},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015VFgArCNoNiMt.5y6YtLTODhvEMMrJKCLEIQIisapPtg
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687975140321092926068
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"2"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015wKZmb1mdiWCtTbJZLmSTcIwnDTWSScMbGv9HXhK8i9w
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687974140321097952158
+PayPal\Transport\PPRestCall: {"id":"PAY-55J43636B3182521WKORUZ2A","create_time":"2014-06-19T20:49:44Z","update_time":"2014-06-19T20:49:44Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"2.00","currency":"USD","details":{"subtotal":"2.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-55J43636B3182521WKORUZ2A","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-98Y36592Y7140474K","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-55J43636B3182521WKORUZ2A/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"32"},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015ZN2EEZXiEAfzmlSFG97IxRotsOrroIMqLPZzhY19GY8
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687976140321129540469
+PayPal\Transport\PPRestCall: {"id":"PAY-8JY8714997246971HKORU4JY","create_time":"2014-06-19T20:55:03Z","update_time":"2014-06-19T20:55:03Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"32.00","currency":"USD","details":{"subtotal":"32.00"}},"description":"This is the payment description."}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-8JY8714997246971HKORU4JY","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-97Y59704NM1412727","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-8JY8714997246971HKORU4JY/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"32"},"item_list":{"items":{"\u0000PayPal\\Common\\PPModel\u0000_propMap":{"quantity":"4","name":"10 VC","price":"8","currency":"USD"}}},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015nV2EYxA-h-qbDfpEt1V71EfynQIz6QDbhDaBYTx5pJU
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726871354140321134211578
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"105"},"item_list":{"items":[{"quantity":"3","name":"50 VC","price":"35","currency":"USD"}]},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015VEOT2EdEbDfq08mzKAiHaj9SqCHgde61lIjrDoCUbxo
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 16777268713531403211658940
+PayPal\Transport\PPRestCall: {"id":"PAY-6C520006JL691162DKORU7DY","create_time":"2014-06-19T21:01:03Z","update_time":"2014-06-19T21:01:03Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"105.00","currency":"USD","details":{"subtotal":"105.00"}},"description":"This is the payment description.","item_list":{"items":[{"name":"50 VC","price":"35.00","currency":"USD","quantity":"3"}]}}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-6C520006JL691162DKORU7DY","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-4F625637U0047241L","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-6C520006JL691162DKORU7DY/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"3"},"item_list":{"items":[{"quantity":"3","name":"1 VC","price":"1","currency":"USD"}]},"description":"This is the payment description."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015ZyX6kLe38saYsSIjHEWfpmzklOXeoGhzwosucRIQCd4
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687978140321217122543
+PayPal\Transport\PPRestCall: {"id":"PAY-54E64852N5134124SKORVDEA","create_time":"2014-06-19T21:09:36Z","update_time":"2014-06-19T21:09:36Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}]}}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-56F12959JA6950921","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA
+PayPal\Core\PPHttpConnection: Payload 
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015yc6fMbX0.zcU9ZR2PupXKZEvxHr5ZBdYOrnQbc126lg
+PayPal\Transport\PPRestCall: {"id":"PAY-54E64852N5134124SKORVDEA","create_time":"2014-06-19T21:09:36Z","update_time":"2014-06-19T21:09:36Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":"Buyer Account"}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}]}}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-56F12959JA6950921","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA/execute
+PayPal\Core\PPHttpConnection: Payload {"payer_id":"TS8JU48BYSKSC"}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015yc6fMbX0.zcU9ZR2PupXKZEvxHr5ZBdYOrnQbc126lg
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 1677726871352140321220918076
+PayPal\Transport\PPRestCall: {"id":"PAY-54E64852N5134124SKORVDEA","create_time":"2014-06-19T21:09:36Z","update_time":"2014-06-19T21:10:19Z","state":"approved","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","line2":"","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":""}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"This is the payment description.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}],"shipping_address":{"recipient_name":"Buyer Account","line1":"1 Main St","line2":"","city":"San Jose","state":"CA","postal_code":"CA","country_code":"US"}},"related_resources":[{"sale":{"id":"6KW33947MP5735415","create_time":"2014-06-19T21:09:36Z","update_time":"2014-06-19T21:10:19Z","state":"completed","amount":{"total":"3.00","currency":"USD"},"parent_payment":"PAY-54E64852N5134124SKORVDEA","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/sale/6KW33947MP5735415","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/payments/sale/6KW33947MP5735415/refund","rel":"refund","method":"POST"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA","rel":"parent_payment","method":"GET"}]}}]}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-54E64852N5134124SKORVDEA","rel":"self","method":"GET"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment
+PayPal\Core\PPHttpConnection: Payload {"intent":"sale","payer":{"payment_method":"paypal"},"redirect_urls":{"return_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=true","cancel_url":"http:\/\/127.0.0.1\/sample\/mysample\/payments\/ExecutePayment.php?success=false"},"transactions":[{"amount":{"currency":"USD","total":"3"},"item_list":{"items":[{"quantity":"3","name":"1 VC","price":"1","currency":"USD"}]},"description":"VC payment."}]}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015VwxSxjzkQdicSkqxM.j3gJ5O-hkT2LgtH6UU1laN9Z4
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687979140321284053884
+PayPal\Transport\PPRestCall: {"id":"PAY-4BH01087G2582763UKORVILQ","create_time":"2014-06-19T21:20:46Z","update_time":"2014-06-19T21:20:46Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"shipping_address":{}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"VC payment.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}]}}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-2WN00562MX0056023","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/oauth2/token
+PayPal\Core\PPHttpConnection: Payload grant_type=client_credentials
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Basic QWF4RHRoQjFyNlRlcXpnaGpFVHA3ZnN4cFhzX29jdkJ0aUlub3VoVWhKRklONDdjX1ljWm1obVVrdGR0OkVJbEhxUkFuNWJ5U0x6MTkwUWMzdWtvTjFTWnpCeVVhUE9HazdxUVpNRVJ0VFdOZmVJSm04ZmxDQjRXSQ==
+PayPal\Core\PPHttpConnection: Adding header Accept: */*
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ
+PayPal\Core\PPHttpConnection: Payload 
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015MQzr1lAEsS4AnIoX9uMfIJiCTP5kSm9BMQCJImNVjnU
+PayPal\Transport\PPRestCall: {"id":"PAY-4BH01087G2582763UKORVILQ","create_time":"2014-06-19T21:20:46Z","update_time":"2014-06-19T21:20:46Z","state":"created","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":"Buyer Account"}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"VC payment.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}]}}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ","rel":"self","method":"GET"},{"href":"https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-2WN00562MX0056023","rel":"approval_url","method":"REDIRECT"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ/execute","rel":"execute","method":"POST"}]}
+PayPal\Core\PPHttpConnection: Connecting to https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ/execute
+PayPal\Core\PPHttpConnection: Payload {"payer_id":"TS8JU48BYSKSC"}
+PayPal\Core\PPHttpConnection: Adding header Content-Type: application/json
+PayPal\Core\PPHttpConnection: Adding header User-Agent: PayPalSDK/rest-sdk-php 0.6.0 (lang=PHP;v=5.3.10-1ubuntu3.11;bit=32;os=Linux_3.2.0-23-generic-pae;machine=i686;openssl=1.0.1;curl=7.22.0)
+PayPal\Core\PPHttpConnection: Adding header Authorization: Bearer A015MQzr1lAEsS4AnIoX9uMfIJiCTP5kSm9BMQCJImNVjnU
+PayPal\Core\PPHttpConnection: Adding header PayPal-Request-Id: 167772687974140321293456551
+PayPal\Transport\PPRestCall: {"id":"PAY-4BH01087G2582763UKORVILQ","create_time":"2014-06-19T21:20:46Z","update_time":"2014-06-19T21:22:26Z","state":"approved","intent":"sale","payer":{"payment_method":"paypal","payer_info":{"email":"per_test@vontracts.com","first_name":"Buyer","last_name":"Account","payer_id":"TS8JU48BYSKSC","shipping_address":{"line1":"1 Main St","line2":"","city":"San Jose","state":"CA","postal_code":"95131","country_code":"US","recipientName":""}}},"transactions":[{"amount":{"total":"3.00","currency":"USD","details":{"subtotal":"3.00"}},"description":"VC payment.","item_list":{"items":[{"name":"1 VC","price":"1.00","currency":"USD","quantity":"3"}],"shipping_address":{"recipient_name":"Buyer Account","line1":"1 Main St","line2":"","city":"San Jose","state":"CA","postal_code":"CA","country_code":"US"}},"related_resources":[{"sale":{"id":"7UL50903NN711744G","create_time":"2014-06-19T21:20:46Z","update_time":"2014-06-19T21:22:26Z","state":"completed","amount":{"total":"3.00","currency":"USD"},"parent_payment":"PAY-4BH01087G2582763UKORVILQ","links":[{"href":"https://api.sandbox.paypal.com/v1/payments/sale/7UL50903NN711744G","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/payments/sale/7UL50903NN711744G/refund","rel":"refund","method":"POST"},{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ","rel":"parent_payment","method":"GET"}]}}]}],"links":[{"href":"https://api.sandbox.paypal.com/v1/payments/payment/PAY-4BH01087G2582763UKORVILQ","rel":"self","method":"GET"}]}

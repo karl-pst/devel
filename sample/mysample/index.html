@@ -1,0 +1,108 @@
+<html>
+<head>
+    <title>Payment</title>
+    <script type="text/javascript">
+        var price = 0;
+        var selectedValue = 0;
+        
+        function changeFunc() {
+            var selectBox = document.getElementById("credits");                       
+            var name = "";
+            selectedValue = selectBox.options[selectBox.selectedIndex].value;        
+
+            switch(parseInt(selectedValue)){
+                case 1: 
+                    price = 1;
+                    name = "1 VC";
+                    break;
+                case 10:
+                    price = 8;
+                    name = "10 VC";
+                    break;
+                case 50:
+                    price = 35;
+                    name = "50 VC";
+                    break;
+                case 100:
+                    price = 60;
+                    name = "100 VC";;
+                    break;
+                default:
+                    price = 0; 
+                    console.log(selectedValue);
+            }  
+
+            document.getElementById("price").value = "$" + price;
+            setName(name);
+            recalculate();
+
+           }
+
+
+
+           function calculate(){
+                var quantity = document.getElementById("quantity").value;                
+                var total = quantity * price;
+                
+                document.getElementById("total").setAttribute("value", "$" + total);               
+           }
+
+           function recalculate(){
+                var quantity = document.getElementById("quantity").value;
+                if(quantity > 0){
+                    calculate();
+                }
+           }
+
+           function setName(name){
+                document.getElementById("name").value = name;
+           }
+    </script>
+</head>
+<body>
+    <h4>Welcome, Guest</h4>
+
+<div class="product">
+    <div class="name">
+        Test Credits Payment
+    </div>
+    <div class="price">
+        <form action="payments/CreatePaymentUsingPayPal.php" method="post">        
+            <table>
+                <thead>
+                    <tr>
+                        <th>Credits</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Total Price</th>
+                        <th>Pay with</th>
+                    </tr>            
+                </thead>
+                <body>
+                    <tr>
+                        <td>
+                            <select onchange="changeFunc();" id="credits">
+                                <option value=0 selected>Select Credits</option>
+                                <option value=1>1 VC</option>
+                                <option value=10>10 VC</option>
+                                <option value=50>50 VC</option>
+                                <option value=100>100 VC</option>
+                            </select>
+                        </td>
+                        <td><input type="text" id="price" name="price" value="$0" readonly /></td>
+                        <td><input type="text" value=0 id="quantity" name="quantity" onblur="calculate(this);"/></td>
+                        <td><input type="text" id="total" value="$0" readonly /></td>
+                        <td>
+                            
+                            <input type="hidden" id="name" name="name" />
+                            <input type="submit" value="PayPal" />
+                            <!--input type="submit" value="Amazon" /-->
+                        </td>
+                    </tr>
+                </body>
+            </table>      
+        </form>
+    </div>
+</div>
+</body>
+</html>

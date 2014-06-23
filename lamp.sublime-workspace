@@ -1,0 +1,1670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"item_list"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"amou",
+				"amountTotal"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"sele",
+				"selectedValue"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"item_n",
+				"item_no"
+			],
+			[
+				"incl",
+				"include_once	Language Construct"
+			],
+			[
+				"var",
+				"var_dump()	standard Function"
+			],
+			[
+				"em",
+				"emails"
+			],
+			[
+				"imap_",
+				"imap_host"
+			],
+			[
+				"str",
+				"structure"
+			],
+			[
+				"email",
+				"email_id"
+			],
+			[
+				"a",
+				"attachments"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"get_side",
+				"get_sidebar"
+			],
+			[
+				"get_si",
+				"get_sidebar"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"case",
+				"case	case …"
+			],
+			[
+				"au",
+				"author	@author"
+			],
+			[
+				"date_fo",
+				"date_format()	date Function"
+			],
+			[
+				"the",
+				"the_id"
+			],
+			[
+				"ex",
+				"existAttachments"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"query",
+				"query_posts"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"get_sy",
+				"get_stylesheet_uri"
+			],
+			[
+				"bloginfo",
+				"get_bloginfo"
+			],
+			[
+				"blog",
+				"bloginfo_url"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"sideb",
+				"dynamic_sidebar"
+			],
+			[
+				"neo",
+				"endif	Language Construct"
+			],
+			[
+				"boom",
+				"get_bookmark"
+			],
+			[
+				"wp_pos",
+				"WP_Post"
+			],
+			[
+				"total",
+				"totalvalue"
+			],
+			[
+				"veri",
+				"verifyEmailAddress"
+			],
+			[
+				"gra",
+				"graphObject"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fin",
+				"finance_terms"
+			],
+			[
+				"mon",
+				"monthly_finance_cost_num"
+			],
+			[
+				"ann",
+				"annual_finance_cost"
+			],
+			[
+				"tax",
+				"taxQuery"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"gene",
+				"generic_interest_name"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"mailer",
+				"mailer_stat"
+			],
+			[
+				"activa",
+				"activation_link"
+			],
+			[
+				"acti",
+				"activation_link"
+			],
+			[
+				"crypt",
+				"crypt"
+			],
+			[
+				"cry",
+				"crypt_salt"
+			],
+			[
+				"login",
+				"login_pass"
+			],
+			[
+				"log",
+				"login_pass"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"opend",
+				"opendb"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"sign",
+				"signup-form"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"lo",
+				"login-form"
+			],
+			[
+				"err",
+				"errorMap"
+			],
+			[
+				"show",
+				"showAlert"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"ful",
+				"full-width-header"
+			],
+			[
+				"full",
+				"full-width-testimony"
+			],
+			[
+				"man",
+				"manual_member_price"
+			],
+			[
+				"manual",
+				"manual_non_member_price"
+			],
+			[
+				"secure",
+				"secure_order"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"conf",
+				"confEmailBody"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"let",
+				"letter-spacing"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"if",
+				"ife	Conditional if..else"
+			],
+			[
+				"se",
+				"searchedFileName"
+			],
+			[
+				"csv",
+				"csvFile"
+			],
+			[
+				"dir",
+				"dirs_found"
+			],
+			[
+				"ser",
+				"searchedFileName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sample/mysample/index.html",
+			"settings":
+			{
+				"buffer_size": 3655,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sample/mysample/payments/ExecutePayment.php",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sample/mysample/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 1867,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sample/mysample/payments/CreatePaymentUsingPayPal.php",
+			"settings":
+			{
+				"buffer_size": 3147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Devel/Vontracts/vontract-db-schema-v3.6.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sample/lib/PayPal/Api/ItemList.php",
+			"settings":
+			{
+				"buffer_size": 1181,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcli",
+				"Package Control: List Packages"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/sftp-config.json",
+		"/D/Vagrant/lamp/www/echo",
+		"/D/Vagrant/lamp/www/sample/sample/bootstrap.php",
+		"/D/Vagrant/lamp/www/sample/tests/bootstrap.php",
+		"/D/Vagrant/lamp/www/sample/mysample/sdk_config.ini",
+		"/D/Vagrant/lamp/www/vendor/autoload.php",
+		"/D/Vagrant/lamp/www/sample/mysample/payments/GetPayment.php",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Transaction.php",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Payment.php",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Item.php",
+		"/D/Vagrant/lamp/www/sample/mysample/bootstrap.php",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Amount.php",
+		"/D/Vagrant/lamp/Vagrantfile",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Payer.php",
+		"/D/Vagrant/lamp/www/sample/lib/PayPal/Api/Address.php",
+		"/D/Vagrant/lamp/www/sample/sample/index.html",
+		"/D/Vagrant/lamp/www/info.php",
+		"/D/Vagrant/lamp/www/paypal/index.php",
+		"/D/Vagrant/lamp/www/sample/sample/payments/ExecutePayment.php",
+		"/D/Vagrant/lamp/www/sample/sample/payments/CreatePaymentUsingPayPal.php",
+		"/D/Vagrant/lamp/www/sample/sample/vendor/composer/autoload_real.php",
+		"/D/Vagrant/lamp/www/sample/sample/vendor/autoload.php",
+		"/D/Vagrant/lamp/www/lamp.sublime-project",
+		"/D/Vagrant/lamp/www/sample/sample/source/CreatePaymentUsingPayPal.html",
+		"/D/Vagrant/lamp/www/paypal/success.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/index.php",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/Xdebug/README.md",
+		"/D/Vagrant/lamp/www/sample/composer.json",
+		"/D/Vagrant/lamp/www/sample/sample/sdk_config.ini",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/footer.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/style.css",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/header.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/sidebar-right.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/practice/functions.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/payments/ExecutePayment.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/payments/CreatePaymentUsingPayPal.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/payments/GetPayment.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/payments/AuthorizationCapture.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/payments/CreatePayment.php",
+		"/D/Vagrant/lamp/www/paypal/app/bootstrap.php",
+		"/D/Vagrant/lamp/www/paypal/install/create_tables.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/sale/RefundSale.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/sale/GetSale.php",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/sdk_config.ini",
+		"/D/Vagrant/lamp/www/paypal/install/db.sql",
+		"/D/Vagrant/lamp/www/paypal/vendor/paypal/rest-api-sdk-php/sample/bootstrap.php",
+		"/D/Vagrant/lamp/www/bitcoin/php-client/bp_options.php",
+		"/D/Vagrant/lamp/www/bitcoin/php-client/bp_lib.php",
+		"/D/Vagrant/lamp/www/bitcoin/request.php",
+		"/D/Vagrant/lamp/www/paypal/cancel.php",
+		"/D/Vagrant/lamp/www/vontracts/email_daemon/daemon.php",
+		"/D/Vagrant/ubuntu-server/Vagrantfile",
+		"/C/xampp/htdocs/mylang/wp-admin/network.php",
+		"/C/xampp/htdocs/mylang/wp-admin/options-permalink.php",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/GoToDoc/Default (Windows).sublime-keymap",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/Default/comment.py",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/preformat.sublime-snippet",
+		"/D/Vagrant/lamp/www/vontracts/test.php",
+		"/C/xampp/htdocs/vontracts/email_daemon/daemon.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/index.php",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/README.md",
+		"/D/Vagrant/lamp/www/practice/wp-includes/theme-compat/footer.php",
+		"/C/Users/PST Ninja User/Desktop/practice/style.css",
+		"/C/xampp/htdocs/mylang/wp-includes/theme-compat/header.php",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/php.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/User/wp-rmmenu.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/PHP/switch(-).sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Snippets/regmymenu.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/WordPress/Snippets/WP_Config_Complete.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/WordPress/Snippets/WP_Query.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/WordPress/Snippets/wp-enqueue-script.sublime-snippet",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/PHP/$GLOBALS[''].sublime-snippet",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/content.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/functions.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentythirteen/index.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp00548/dev.afsa-irs.org/system/codeigniter/CodeIgniter.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp40346/afsa-irs.org/system/scaffolding/Scaffolding.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp39099/afsa-irs.org/core",
+		"/D/Down/Archive/CodeIgniter_1.7.1/CodeIgniter_1.7.1/system/codeigniter/CodeIgniter.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp01355/dev.afsa-irs.org/system/app_public/config/config.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentythirteen/header.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentythirteen/content.php",
+		"/C/Users/PST Ninja User/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.sublime-completions",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/header.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/footer.php",
+		"/D/Vagrant/lamp/www/practice/wp-content/themes/twentyfourteen/content-none.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp52785/afsa-irs.org/system/app_public/controllers/welcome.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp52921/afsa-irs.org/system/app_public/config/routes.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp15408/afsa-irs.org/system/app_public/templates/welcome/dashboard.tpl",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp13736/dev.afsa-irs.org/system/app_public/templates/welcome/dashboard.tpl",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp10851/dev.afsa-irs.org/system/app_public/controllers/welcome.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp18608/dev.afsa-irs.org/system/app_public/models/cmscontent_model.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp42165/dev.afsa-irs.org/system/app_public/config/routes.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp42557/dev.afsa-irs.org/system/app_public/config/constants.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp41246/dev.afsa-irs.org/system/app_public/config/config.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp09498/dev.afsa-irs.org/admin/index.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp09307/dev.afsa-irs.org/system/app_public/views/index.html",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp29630/home/wpawpa5/public_html/wpa/datia.biz/email_settings.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp08759/dev.afsa-irs.org/index.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp02263/home/mapper/public_html/ln_ftp/.ftpquota",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp30364/home/wpawpa5/public_html/wpa/datia.biz/email_settings_for_testing.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp45876/home/wpawpa5/public_html/wpa/datia.biz/datia_contact_email/datia_contact_email_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp45254/home/wpawpa5/public_html/wpa/datia.biz/datia_contact_email.htm",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp54027/home/wpawpa5/public_html/wpa/datia.biz/email_settings.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp49900/home/wpawpa5/public_html/wpa/datia.biz/datia_contact_email/datia_contact_email_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp55359/home/eu/public_html/wp-content/themes/eu/sidebar-parts/calendar.php",
+		"/C/Users/PST Ninja User/Desktop/test.sh",
+		"/C/Users/PST Ninja User/Desktop/test",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp48399/home/wpawpa5/public_html/wpa/datia.biz/datia_contact_email.htm",
+		"/C/Users/PST Ninja User/Desktop/Ftp mapper@compliancemapper.com.xml",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp50164/home/wpawpa5/public_html/wpa/datia.biz/email_settings.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp49898/home/wpawpa5/public_html/wpa/datia.biz/datia_publication_order.htm",
+		"/D/Devel/wpa/datia.biz/datia_publication_order_dev.htm",
+		"/D/Vagrant/Final/Files/share/shell-provisioning/provision.sh",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp49933/home/wpawpa5/public_html/wpa/datia.biz/datia_publication_order/datia_publication_order_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp55331/home/wpawpa5/public_html/wpa/datia.biz/datia_course_registration1/datia_course_registration4_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp54123/home/wpawpa5/public_html/wpa/datia.biz/datia_course_registration_wkshp.htm",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp02983/home/wpawpa5/public_html/wpa/datia.biz/datia_mbr_application/datia_mbr_application_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp59905/home/wpawpa5/public_html/wpa/datia.biz/datia_mbr_application1.html",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp19633/home/wpawpa5/public_html/wpa/datia.biz/datia_renewal_application/datia_renewal_application_mail.php",
+		"/C/Users/PST Ninja User/AppData/Local/Temp/scp12947/home/wpawpa5/public_html/wpa/datia.biz/datia_renewal_application1.html",
+		"/C/Users/PST Ninja User/Desktop/email_backup.sh",
+		"/D/Vagrant/Drupal Craze/shell/provision.sh",
+		"/D/Vagrant/vdd/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transac",
+			"$item",
+			"class AmountDetails",
+			"ead",
+			"td",
+			"cancel.php",
+			"PayPa",
+			"execute",
+			"structure",
+			"mbox",
+			"mailbox",
+			"toggle_comment",
+			"existAttachments",
+			"div",
+			"footer",
+			"margin",
+			"register_my_menu",
+			"switch",
+			"glob",
+			"insert_snippet",
+			"insert",
+			"\"",
+			"195",
+			"595",
+			"ST_suptrain_manual_price",
+			"secure_ord",
+			"DER_desem",
+			"DER_desemp_manual_amt",
+			"totalvalue",
+			"Subtotal_amt",
+			"495",
+			"emailTo5",
+			"\";\n",
+			"emailTo1",
+			"EmailSubject",
+			"emailSubject",
+			"emailTo2",
+			"emailTo1",
+			"emailTo4",
+			"emailTo3",
+			"emailTo2",
+			"emailTo1",
+			"url",
+			"error",
+			"result",
+			"score.org",
+			"volunteer.score.org",
+			"addAt",
+			"txt",
+			"2222",
+			"end",
+			"$m",
+			"m",
+			"bryan@vontracts.com",
+			"mylang.local",
+			"FORM",
+			"insert",
+			",",
+			"Name",
+			"insert",
+			",",
+			"div",
+			"phpmyadmin",
+			"New",
+			"lng",
+			"finance_terms",
+			"calculate_cng",
+			"lng",
+			"nav",
+			"gov_incentives",
+			"fleet_size",
+			"avg_diesel_mpg",
+			"payback",
+			"toFixed",
+			"gallons_used_diesel_price",
+			"avg_mpy",
+			"payback",
+			"3.31",
+			"gallons_used_ng_total",
+			"CNG Calculator",
+			"(function(){Type.registerNamespace(\"Telerik.Web.UI\");",
+			"ScriptResource_002",
+			"WebResource",
+			"http",
+			"|_Inn",
+			"|_drup",
+			"|_drupalDB",
+			"| Inn",
+			"| dru",
+			"ems",
+			"romania",
+			"austria",
+			"|_",
+			"|_http:",
+			"//|_ww",
+			"http://|_www.euintheus.org/event/european-month-of-culture/",
+			"|_http://|_w",
+			"IDFW",
+			"form",
+			"redbook_price",
+			"195.00",
+			"secure_order.Subtotal_amt.value=totalvalue();",
+			"secure_order.IDFW_manual_amt.value=calvalue(secure_order.IDFW_manual_items.value,secure_order.IDFW_manual_price.value);",
+			"secure_order.redbook_total.value=calvalue(secure_order.Redbooks.value,secure_order.redbook_price.value);",
+			"secure_order.total_items.value",
+			"redbook_price",
+			"IDFW_manual_items",
+			"total_items",
+			"number_total",
+			"IDFW_manual_items",
+			"IDFW_manual_amt",
+			"IDFW_manual_items",
+			"IDFW",
+			"events_type",
+			"eventsEuropeWeek",
+			"eventsEuropeanWeek",
+			"b-events-widget__list",
+			"european-month-culture",
+			"rend",
+			"style=\"font-weight:bold;\"",
+			"style=\"font-weight:bold;\"\n\n<h3>TASKS</h3>\n\n<ul>\n  <li>Update LOEs</li>\n  <li>Create screenshots showing concepts/storyboard/etc</li>\n  <li>Research calendar php app we can replace the view with</li>\n  <li>More design items/schematics if appropriate</li>\n	<li>etc.</li>\n</ul>\n\n\n{| class=\"wikitable\"\n|-\n! Task Name\n! Duration\n! Work\n! Start\n! Finish\n! % Complete\n|-\n| 30 Day Speed Project||27 days||464 hrs||Mon 3/24/14||Tue 4/29/14||9%\n|-\n|style=\"font-weight:bold;padding-left:10px;\"| Sessions Page [http://powerstormtech.com:3000/issues/4317 ticket#4317]|style=\"font-weight:bold;\"|11 days|style=\"font-weight:bold;\"|88 hrs|style=\"font-weight:bold;\"|Mon 3/24/14|style=\"font-weight:bold;\"|Mon 4/7/14|style=\"font-weight:bold;\"|80%\n|-\n|style=\"padding-left:20px;\"|POC||0 hrs||0 hrs||Mon 3/24/14||Mon 3/24/14||100%\n|-\n|style=\"padding-left:20px;\"|Relevant database table fields updates (type change and indexing)||3 days||32 hrs||Wed 3/26/14||Fri 3/28/14||90%\n|-\n|style=\"padding-left:20px;\"|Authentication||4 days||24 hrs||Thu 3/27/14||Tue 4/1/14||80%\n|-\n|style=\"padding-left:20px;\"|Review/Revise Forms||2 days||24 hrs||Wed 4/2/14||Thu 4/3/14||80%\n|-\n|style=\"padding-left:20px;\"|New Query||2 days||8 hrs||Fri 4/4/14||Mon 4/7/14||80%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Webmail [http://powerstormtech.com:3000/issues/4318 ticket#4318]|style=\"font-weight:bold;\"|27 days|style=\"font-weight:bold;\"|216 hrs|style=\"font-weight:bold;\"|Mon 3/24/14|style=\"font-weight:bold;\"|Tue 4/29/14||47%\n|-\n|style=\"padding-left:20px;\"|Perception||27 days||152 hrs||Mon 3/24/14||Tue 4/29/14||44%\n|-\n|style=\"padding-left:30px;\"|Modify Webmail Theme||2 days||24 hrs||Mon 3/24/14||Tue 3/25/14||70%\n|-\n|style=\"padding-left:30px;\"|message loading||1 day||32 hrs||Mon 4/7/14||Mon 4/7/14||70%\n|-\n|style=\"padding-left:30px;\"|attachments||5 days||32 hrs||Tue 4/8/14||Mon 4/14/14||10%\n|-\n|style=\"padding-left:30px;\"|send message||3 days||32 hrs||Tue 4/15/14||Thu 4/17/14||20%\n|-\n|style=\"padding-left:30px;\"|AJAX notifier||8 days||32 hrs||Fri 4/18/14||Tue 4/29/14||50%\n|-\n|style=\"padding-left:20px;\"|Backend Changes||5 days||64 hrs||Mon 4/21/14||Fri 4/25/14||50%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Calendar [http://powerstormtech.com:3000/issues/4320 ticket#4320]|style=\"font-weight:bold;\"|11 days|style=\"font-weight:bold;\"|80 hrs|style=\"font-weight:bold;\"|Wed 3/26/14|style=\"font-weight:bold;\"|Wed 4/9/14|style=\"font-weight:bold;\"|5%\n|-\n|style=\"padding-left:20px;\"|Custom Theme||4 days||32 hrs||Wed 3/26/14||Mon 3/31/14||50%\n|-\n|style=\"padding-left:20px;\"|Lazyloading||5 days||32 hrs||Thu 4/10/14||Wed 4/16/14||10%\n|-\n|style=\"padding-left:20px;\"|Appointment Details||2 days||16 hrs||Thu 4/17/14||Fri 4/18/14||5%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Mentoring Request Screen [http://powerstormtech.com:3000/issues/4321 ticket#4321]|style=\"font-weight:bold;\"|9 days|style=\"font-weight:bold;\"|72 hrs|style=\"font-weight:bold;\"|Thu 4/3/14|style=\"font-weight:bold;\"|Tue 4/15/14|style=\"font-weight:bold;\"|15%\n|-\n|style=\"padding-left:20px;\"|Build queries||2 days||16 hrs||Thu 4/3/14||Fri  4/4/14||80%\n|-\n|style=\"padding-left:20px;\"|New form functions||3 days||24 hrs||Mon 4/7/14||Wed 4/9/14||0%\n|-\n|style=\"padding-left:20px;\"|Integrate with the new template||2 days||16 hrs||Thu 4/10/14||Fri 4/11/14||0%\n|-\n|style=\"padding-left:20px;\"|Testing/Debug||2 days||16 hrs||Mon 4/14/14||Tue 4/15/14||0%\n|-\n|}\n\n<h3>DISCLAIMER</h3>\n\n<p>Performance may still be DB related and may or may not dramatically improve on production environment using the following solutions alone.</p>\n\n<ol>\n<div id=\"views\"><h1>VIEWS</h1></div>\n	<li>http://www.score.org/mentors_v4/clients/sessions\n  	<ul>\n    		<li>Proof of concept for this - <strong>16+ hours DONE</strong></li>\n      	<li>Relevant database table fields updates (type change and indexing). - <strong>16 hours</strong>\n						<ul>\n            		<li>Longtext to varchar - field client first name, last name <strong>90% Done</strong>  </li>\n              	<li>Optimize tables by indexing <strong>90% Done</strong> </li>\n              	<li>Drupal regression test/retest code, query scripts, etc. <strong>90% Done</strong> </li>\n            </ul>\n      	</li>\n        <li>Drupal user authentication functions - <strong>8 hours</strong>\n						<ul>\n            		<li>Simulate Drupal authentication, but will check sessions, not dependent on Drupal. Just going to use current scheme. <strong>80% Done. We still need to code client/volunteer profile recognition for uers.</strong>\n<ul>\n<li>\nCustom 404 Performance comparison:\n* Old View\n[[File:4317_404_old.PNG]]\n* New View\n[[File:4317_404_new.PNG]]\n* ''Ticket reference:'' [http://powerstormtech.com:3000/issues/4317#note-6 #4317]\n</li>\n</ul>\n</li>\n            </ul>\n        </li>\n        <li>Reuse for other forms/view replacements:\n        		<ul>\n            		<li>new form functions - <strong>24 hours (80% Done, tweaks/improvements needed to ensure reusability ) </strong></li>\n								<li>new theme templates (similar look to site) - <strong>16 hours (80% Done) </strong></li>\n            </ul>\n        </li>\n        <li>New query building. - <strong>16 hours (50% Done, tweaks/improvements to ensure correct results) </strong></li>\n        <li>Estimate total: <strong>80 hours</strong></li>\n    </ul>\n  </li>\n  \n  \n<div id=\"webmail\"><h1>WEBMAIL</h1></div>\n  <li>\n 			http://www.score.org/basic_webmail  \n      <ul>\n      		<li>Stripped custom theme. - <strong>24 hours</strong></li>\n          <li>Data fetching. - (<strong>2 days - 16 hours</strong>)\n          		<ol>\n<li> This can be done last or as another phase if deemed necessary. It would help with speed but the focus of this is to be perception and workflow improvments</li>\n              		<li>Research on possibility of storing all headers into a table using a viable indexing system. Note that index coming from IMAP changes everytime an email is added/removed hence the same header cannot be effectively referenced using the id alone. Possibly consider creating a hash id based on a combination of more or less distinct values (i.e. sender + timestamp). - <strong>(80% DONE - can now get data using AJAX and store it in a temporary table)</strong></li>\n              		<li>Prefetch header data on volunteer login via ajax calls. The webmail data of the volunteer will be pre-loaded into a table via an ajax call with predetermined update intervals while the volunteer is logged in regardless of whether he/she checks the webmail page. That way, content will be \"served\" from the table instead of coming straight from an IMAP call. - <strong>(80% DONE - once logged in, it will display the previous messages stored from temporary table and the inbox will now auto update once there is a new email so no need to refresh the page)</strong></li>\n              		<li>Depending on db table performance and size, we might consider storing it on a separate RDS just for webmail database - <strong>(80% DONE - created temporary table for webmail)</strong></li>\n              </ol>\n          </li>\n          <li>Message loading. (<strong>1 day - 8 hours) 80% DONE - every time the script execute an AJAX a pre-loader will appear.</strong>)\n          		<ol>\n              		<li>Using same header prefetch mentioned above, we also pre-load and store the first N items since they are fetched when getting additional info like attachments etc.</li>\n              </ol>\n          </li>\n          <li>Attaching files. (<strong>3 days - 24 hours</strong>)\n          		<ol>\n              		<li>We create an option of pre-uploading the file while the volunteer is composing the message. Message can only be posted upon attachment upload is completed.</li>\n									<li>We add an upload progress indicator. Upload speeds are usually an issue on the users network so showing them the update status will at least explain why. Note that even on social media like Facebook, you cannot leave the page unless the uploads are completed or else all progress will be lost. </li>\n              </ol>\n          </li>\n          <li>\n          		Sending messages. (<strong>3 days - 24 hours</strong>)\n              <ol>\n              		<li>Possible issue with sending emails is that we have to wait for confirmation from the mailserver on whether the messsage was sent or not hence the possible delay of the return page. Then the message has to be fetched again via IMAP.</li>\n              		<li>If we use message caching via tables, we might speed up the return page display. Also, if we delegate the message sendout into a queue, we might eliminate the wait time from the sendmail server.</li>\n              </ol>\n          </li>\n          <li>\n          		Message/Attachment Queue Ajax Notifier (<strong>2 days - 16 hours</strong>)\n          		<ol>\n              		<li>This displays to the user what messages are in the process of being sent, or files being uploaded to be sent, so they can see the progress or status, and they can continue with other functions they want to do as it does not have to wait for these to finish</li>\n              		<li>\n                  		Table to track status/progress \n                      <ol>\n                        <li>type - file or mail</li>\n                        <li>id - filename or mail id or receiver + subject of email, comma separated</li>\n                        <li>status - uploading, sending, successfully finished, error</li>\n                        <li>date started</li>\n                        <li>date finished</li>\n                        <li>location - for recovery of the file/message in case of issues</li>\n											</ol>\n                  </li>\n              		<li>\n                  		OPTIONAL Extra items: \n                  		<ol>\n                    		<li>We need to handle errors/user issues, like when a user does hard reboot of pc, power failure, reload of whole page, etc. </li>\n                    		<li>Any partial uploads we ask user to redo due to the errors above, upon checking this table</li>\n                    		<li>Everything should be created as a Draft so user can resend if needed</li>\n											</ol>\n                  </li>\n              </ol>\n          </li>\n          <li>\n          		Testing and debugging (<strong>3 days - 24 hours</strong>)\n          </li>\n          <li>Webmail Views<br>\n\n'''Loading View'''<br />             \n[[File:Loading.png]]<br /><br />\n'''Compose Popup View'''<br />\n[[File:Compose view popup.png]]<br /><br />\n\n'''After Sending View'''<br />\n[[File:Before sending.png]]<br /><br />\n'''Sending View'''<br />\n[[File:After sending.png]]<br /><br />\n'''Message Send View'''<br />\n[[File:Message sent.png]]<br /><br />\n          </li>\n          <li>Estimate Total: <strong>17 days - 136 hours</strong></li>\n      </ul>\n  </li>\n  \n  <!-- #3 -->\n<div id=\"calendar\"><h1>CALENDAR</h1></div>\n  <li>http://www.score.org/mentoring/calendar\n  		<ul>\n      		<li>Custom themed page (<strong>3days - 24 hours</strong>)</li>\n          <li>One thing we noticed with the mentoring calendar is that all the data is being pulled and the appointment screens are rendered and hidden which means a lot of extra query calls are made to generate content for each day of the month. Then another set of PHP code  generates the links per day and the screens (hidden divs) per links - all of which are bunched together into a single HTML output which we think adds to the delay from the queries to the html output, the download of a rather bigger html file and of course the rendering of the html on the browser end. We think that instead of loading everything, we just load each on demand (lazyloading). That way we can quickly render a blank calendar and slowly populate the day to day details via ajax calls. - (<strong>3 days - 24 hours</strong>)</li>\n      		<li>Appointment details will have to be pulled from the backend on demand instead of pre-rendered with the html. This will have a slight cost in performance when rendering the appointment since it will make that call from the backend versus the pre-rendered(hidden) output. - (<strong>2 days - 16 hours</strong>)</li>\n					<li>\n          		Testing and debugging (<strong>3 days - 24 hours</strong>)\n          </li>\n  		</ul>\n  </li>\n  \n\n  <li>\n  		http://www.score.org/mentors_v4/mentoring/requests\n      <ul>\n      		<li>Need more time to LOE this. Around 8~16 hours to review these pages (Email/Face-to-face).</li>\n      </ul>\n  </li>\n  \n</ol>\n",
+			"\n\n<h3>TASKS</h3>\n\n<ul>\n  <li>Update LOEs</li>\n  <li>Create screenshots showing concepts/storyboard/etc</li>\n  <li>Research calendar php app we can replace the view with</li>\n  <li>More design items/schematics if appropriate</li>\n	<li>etc.</li>\n</ul>\n\n\n{| class=\"wikitable\"\n|-\n! Task Name\n! Duration\n! Work\n! Start\n! Finish\n! % Complete\n|-\n| 30 Day Speed Project||27 days||464 hrs||Mon 3/24/14||Tue 4/29/14||9%\n|-\n|style=\"font-weight:bold;padding-left:10px;\"| Sessions Page [http://powerstormtech.com:3000/issues/4317 ticket#4317]|style=\"font-weight:bold;\"|11 days|style=\"font-weight:bold;\"|88 hrs|style=\"font-weight:bold;\"|Mon 3/24/14|style=\"font-weight:bold;\"|Mon 4/7/14|style=\"font-weight:bold;\"|80%\n|-\n|style=\"padding-left:20px;\"|POC||0 hrs||0 hrs||Mon 3/24/14||Mon 3/24/14||100%\n|-\n|style=\"padding-left:20px;\"|Relevant database table fields updates (type change and indexing)||3 days||32 hrs||Wed 3/26/14||Fri 3/28/14||90%\n|-\n|style=\"padding-left:20px;\"|Authentication||4 days||24 hrs||Thu 3/27/14||Tue 4/1/14||80%\n|-\n|style=\"padding-left:20px;\"|Review/Revise Forms||2 days||24 hrs||Wed 4/2/14||Thu 4/3/14||80%\n|-\n|style=\"padding-left:20px;\"|New Query||2 days||8 hrs||Fri 4/4/14||Mon 4/7/14||80%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Webmail [http://powerstormtech.com:3000/issues/4318 ticket#4318]|style=\"font-weight:bold;\"|27 days|style=\"font-weight:bold;\"|216 hrs|style=\"font-weight:bold;\"|Mon 3/24/14|style=\"font-weight:bold;\"|Tue 4/29/14||47%\n|-\n|style=\"padding-left:20px;\"|Perception||27 days||152 hrs||Mon 3/24/14||Tue 4/29/14||44%\n|-\n|style=\"padding-left:30px;\"|Modify Webmail Theme||2 days||24 hrs||Mon 3/24/14||Tue 3/25/14||70%\n|-\n|style=\"padding-left:30px;\"|message loading||1 day||32 hrs||Mon 4/7/14||Mon 4/7/14||70%\n|-\n|style=\"padding-left:30px;\"|attachments||5 days||32 hrs||Tue 4/8/14||Mon 4/14/14||10%\n|-\n|style=\"padding-left:30px;\"|send message||3 days||32 hrs||Tue 4/15/14||Thu 4/17/14||20%\n|-\n|style=\"padding-left:30px;\"|AJAX notifier||8 days||32 hrs||Fri 4/18/14||Tue 4/29/14||50%\n|-\n|style=\"padding-left:20px;\"|Backend Changes||5 days||64 hrs||Mon 4/21/14||Fri 4/25/14||50%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Calendar [http://powerstormtech.com:3000/issues/4320 ticket#4320]|style=\"font-weight:bold;\"|11 days|style=\"font-weight:bold;\"|80 hrs|style=\"font-weight:bold;\"|Wed 3/26/14|style=\"font-weight:bold;\"|Wed 4/9/14|style=\"font-weight:bold;\"|5%\n|-\n|style=\"padding-left:20px;\"|Custom Theme||4 days||32 hrs||Wed 3/26/14||Mon 3/31/14||50%\n|-\n|style=\"padding-left:20px;\"|Lazyloading||5 days||32 hrs||Thu 4/10/14||Wed 4/16/14||10%\n|-\n|style=\"padding-left:20px;\"|Appointment Details||2 days||16 hrs||Thu 4/17/14||Fri 4/18/14||5%\n|-\n|style=\"font-weight:bold; padding-left:10px;\"|Mentoring Request Screen [http://powerstormtech.com:3000/issues/4321 ticket#4321]|style=\"font-weight:bold;\"|9 days|style=\"font-weight:bold;\"|72 hrs|style=\"font-weight:bold;\"|Thu 4/3/14|style=\"font-weight:bold;\"|Tue 4/15/14|style=\"font-weight:bold;\"|15%\n|-\n|style=\"padding-left:20px;\"|Build queries||2 days||16 hrs||Thu 4/3/14||Fri  4/4/14||80%\n|-\n|style=\"padding-left:20px;\"|New form functions||3 days||24 hrs||Mon 4/7/14||Wed 4/9/14||0%\n|-\n|style=\"padding-left:20px;\"|Integrate with the new template||2 days||16 hrs||Thu 4/10/14||Fri 4/11/14||0%\n|-\n|style=\"padding-left:20px;\"|Testing/Debug||2 days||16 hrs||Mon 4/14/14||Tue 4/15/14||0%\n|-\n|}\n\n<h3>DISCLAIMER</h3>\n\n<p>Performance may still be DB related and may or may not dramatically improve on production environment using the following solutions alone.</p>\n\n<ol>\n<div id=\"views\"><h1>VIEWS</h1></div>\n	<li>http://www.score.org/mentors_v4/clients/sessions\n  	<ul>\n    		<li>Proof of concept for this - <strong>16+ hours DONE</strong></li>\n      	<li>Relevant database table fields updates (type change and indexing). - <strong>16 hours</strong>\n						<ul>\n            		<li>Longtext to varchar - field client first name, last name <strong>90% Done</strong>  </li>\n              	<li>Optimize tables by indexing <strong>90% Done</strong> </li>\n              	<li>Drupal regression test/retest code, query scripts, etc. <strong>90% Done</strong> </li>\n            </ul>\n      	</li>\n        <li>Drupal user authentication functions - <strong>8 hours</strong>\n						<ul>\n            		<li>Simulate Drupal authentication, but will check sessions, not dependent on Drupal. Just going to use current scheme. <strong>80% Done. We still need to code client/volunteer profile recognition for uers.</strong>\n<ul>\n<li>\nCustom 404 Performance comparison:\n* Old View\n[[File:4317_404_old.PNG]]\n* New View\n[[File:4317_404_new.PNG]]\n* ''Ticket reference:'' [http://powerstormtech.com:3000/issues/4317#note-6 #4317]\n</li>\n</ul>\n</li>\n            </ul>\n        </li>\n        <li>Reuse for other forms/view replacements:\n        		<ul>\n            		<li>new form functions - <strong>24 hours (80% Done, tweaks/improvements needed to ensure reusability ) </strong></li>\n								<li>new theme templates (similar look to site) - <strong>16 hours (80% Done) </strong></li>\n            </ul>\n        </li>\n        <li>New query building. - <strong>16 hours (50% Done, tweaks/improvements to ensure correct results) </strong></li>\n        <li>Estimate total: <strong>80 hours</strong></li>\n    </ul>\n  </li>\n  \n  \n<div id=\"webmail\"><h1>WEBMAIL</h1></div>\n  <li>\n 			http://www.score.org/basic_webmail  \n      <ul>\n      		<li>Stripped custom theme. - <strong>24 hours</strong></li>\n          <li>Data fetching. - (<strong>2 days - 16 hours</strong>)\n          		<ol>\n<li> This can be done last or as another phase if deemed necessary. It would help with speed but the focus of this is to be perception and workflow improvments</li>\n              		<li>Research on possibility of storing all headers into a table using a viable indexing system. Note that index coming from IMAP changes everytime an email is added/removed hence the same header cannot be effectively referenced using the id alone. Possibly consider creating a hash id based on a combination of more or less distinct values (i.e. sender + timestamp). - <strong>(80% DONE - can now get data using AJAX and store it in a temporary table)</strong></li>\n              		<li>Prefetch header data on volunteer login via ajax calls. The webmail data of the volunteer will be pre-loaded into a table via an ajax call with predetermined update intervals while the volunteer is logged in regardless of whether he/she checks the webmail page. That way, content will be \"served\" from the table instead of coming straight from an IMAP call. - <strong>(80% DONE - once logged in, it will display the previous messages stored from temporary table and the inbox will now auto update once there is a new email so no need to refresh the page)</strong></li>\n              		<li>Depending on db table performance and size, we might consider storing it on a separate RDS just for webmail database - <strong>(80% DONE - created temporary table for webmail)</strong></li>\n              </ol>\n          </li>\n          <li>Message loading. (<strong>1 day - 8 hours) 80% DONE - every time the script execute an AJAX a pre-loader will appear.</strong>)\n          		<ol>\n              		<li>Using same header prefetch mentioned above, we also pre-load and store the first N items since they are fetched when getting additional info like attachments etc.</li>\n              </ol>\n          </li>\n          <li>Attaching files. (<strong>3 days - 24 hours</strong>)\n          		<ol>\n              		<li>We create an option of pre-uploading the file while the volunteer is composing the message. Message can only be posted upon attachment upload is completed.</li>\n									<li>We add an upload progress indicator. Upload speeds are usually an issue on the users network so showing them the update status will at least explain why. Note that even on social media like Facebook, you cannot leave the page unless the uploads are completed or else all progress will be lost. </li>\n              </ol>\n          </li>\n          <li>\n          		Sending messages. (<strong>3 days - 24 hours</strong>)\n              <ol>\n              		<li>Possible issue with sending emails is that we have to wait for confirmation from the mailserver on whether the messsage was sent or not hence the possible delay of the return page. Then the message has to be fetched again via IMAP.</li>\n              		<li>If we use message caching via tables, we might speed up the return page display. Also, if we delegate the message sendout into a queue, we might eliminate the wait time from the sendmail server.</li>\n              </ol>\n          </li>\n          <li>\n          		Message/Attachment Queue Ajax Notifier (<strong>2 days - 16 hours</strong>)\n          		<ol>\n              		<li>This displays to the user what messages are in the process of being sent, or files being uploaded to be sent, so they can see the progress or status, and they can continue with other functions they want to do as it does not have to wait for these to finish</li>\n              		<li>\n                  		Table to track status/progress \n                      <ol>\n                        <li>type - file or mail</li>\n                        <li>id - filename or mail id or receiver + subject of email, comma separated</li>\n                        <li>status - uploading, sending, successfully finished, error</li>\n                        <li>date started</li>\n                        <li>date finished</li>\n                        <li>location - for recovery of the file/message in case of issues</li>\n											</ol>\n                  </li>\n              		<li>\n                  		OPTIONAL Extra items: \n                  		<ol>\n                    		<li>We need to handle errors/user issues, like when a user does hard reboot of pc, power failure, reload of whole page, etc. </li>\n                    		<li>Any partial uploads we ask user to redo due to the errors above, upon checking this table</li>\n                    		<li>Everything should be created as a Draft so user can resend if needed</li>\n											</ol>\n                  </li>\n              </ol>\n          </li>\n          <li>\n          		Testing and debugging (<strong>3 days - 24 hours</strong>)\n          </li>\n          <li>Webmail Views<br>\n\n'''Loading View'''<br />             \n[[File:Loading.png]]<br /><br />\n'''Compose Popup View'''<br />\n[[File:Compose view popup.png]]<br /><br />\n\n'''After Sending View'''<br />\n[[File:Before sending.png]]<br /><br />\n'''Sending View'''<br />\n[[File:After sending.png]]<br /><br />\n'''Message Send View'''<br />\n[[File:Message sent.png]]<br /><br />\n          </li>\n          <li>Estimate Total: <strong>17 days - 136 hours</strong></li>\n      </ul>\n  </li>\n  \n  <!-- #3 -->\n<div id=\"calendar\"><h1>CALENDAR</h1></div>\n  <li>http://www.score.org/mentoring/calendar\n  		<ul>\n      		<li>Custom themed page (<strong>3days - 24 hours</strong>)</li>\n          <li>One thing we noticed with the mentoring calendar is that all the data is being pulled and the appointment screens are rendered and hidden which means a lot of extra query calls are made to generate content for each day of the month. Then another set of PHP code  generates the links per day and the screens (hidden divs) per links - all of which are bunched together into a single HTML output which we think adds to the delay from the queries to the html output, the download of a rather bigger html file and of course the rendering of the html on the browser end. We think that instead of loading everything, we just load each on demand (lazyloading). That way we can quickly render a blank calendar and slowly populate the day to day details via ajax calls. - (<strong>3 days - 24 hours</strong>)</li>\n      		<li>Appointment details will have to be pulled from the backend on demand instead of pre-rendered with the html. This will have a slight cost in performance when rendering the appointment since it will make that call from the backend versus the pre-rendered(hidden) output. - (<strong>2 days - 16 hours</strong>)</li>\n					<li>\n          		Testing and debugging (<strong>3 days - 24 hours</strong>)\n          </li>\n  		</ul>\n  </li>\n  \n\n  <li>\n  		http://www.score.org/mentors_v4/mentoring/requests\n      <ul>\n      		<li>Need more time to LOE this. Around 8~16 hours to review these pages (Email/Face-to-face).</li>\n      </ul>\n  </li>\n  \n</ol>\n",
+			"Events",
+			"events",
+			"ck",
+			"Advanced_DER329Member_1",
+			"DER",
+			"calculatetotal()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"array",
+			"|drupalDB",
+			"",
+			"<img src=\"<?php bloginfo('stylesheet_directory'); ?>/images/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sample/mysample/index.html",
+					"settings":
+					{
+						"buffer_size": 3655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3496,
+								3496
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sample/mysample/payments/ExecutePayment.php",
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sample/mysample/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 1867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "sample/mysample/payments/CreatePaymentUsingPayPal.php",
+					"settings":
+					{
+						"buffer_size": 3147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Devel/Vontracts/vontract-db-schema-v3.6.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2163.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sample/lib/PayPal/Api/ItemList.php",
+					"settings":
+					{
+						"buffer_size": 1181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.513698998223,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"practicefooter",
+				"www/practice/wp-content/themes/practice/footer.php"
+			],
+			[
+				"practicefooter.php",
+				"www/practice/wp-includes/theme-compat/footer.php"
+			],
+			[
+				"practicestyle",
+				"www/practice/wp-content/themes/practice/style.css"
+			],
+			[
+				"practicestyle.css",
+				"practice/style.css"
+			],
+			[
+				"practiceheader",
+				"www/practice/wp-content/themes/practice/header.php"
+			],
+			[
+				"header",
+				"mylang/wp-includes/theme-compat/header.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true
+}

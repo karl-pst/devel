@@ -1,0 +1,675 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0050)http://www.wpa.us/secure_forms/datia/template.html -->
+<!-- saved from url=(0055)http://wpa.us/secure_forms/cport/cport_renewal_app.html -->
+<html>
+<head>
+<title>Publication Order</title>
+<meta content="MSHTML 6.00.2600.0" name=GENERATOR>
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<script language=JavaScript src="datia_publication_order/gen_validatorv2.js" type=text/javascript></script>
+<link href="DATIAStyles.css" type="text/css" rel="stylesheet"/>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<style type=text/css>
+P {
+FONT: 10pt Arial; COLOR: black
+}
+TD {
+FONT: 10pt Arial; COLOR: black
+}
+UL {
+FONT: 10pt Arial; COLOR: black
+}
+OL {
+FONT: 10pt Arial; COLOR: black
+}
+LI H1 {
+FONT: 10pt Arial; COLOR: black
+}
+.normal {
+FONT: 10pt Arial; COLOR: black
+}
+.bold {
+FONT: bold 10pt Arial; COLOR: black
+}
+.whitebold {
+FONT: bold 10pt Arial; COLOR: white
+}
+H1 {
+FONT: 20pt Arial Narrow; COLOR: #f36f20
+}
+.purple {
+FONT: bold italic 12pt "Times New Roman"; COLOR: #7b4199
+}
+.orange {
+FONT: bold italic 12pt "Times New Roman"; COLOR: #f36f20
+}
+</style>
+<script language=Javascript>
+function openWin(htmlpage,name) 
+        { 
+popupWin = window.open(htmlpage, name, "width=450,height=500,scrollbars=yes,resizable,menubar=false"); return false;
+  }
+function calvalue(val1,val2) 
+{   
+return value = Number(val1) * Number(val2);
+}
+function totalvalue() 
+{   
+   return Number(document.secure_order.redbook_total.value)+ Number(document.secure_order.redbook_updates_amount.value)+ Number(document.secure_order.cpc_alt_spec_man_amt.value)+ Number(document.secure_order.CPCT_altspec_manual_amt.value)+ Number(document.secure_order.DER_desemp_manual_amt.value)+ Number(document.secure_order.ST_suptrain_manual_amt.value)+ Number(document.secure_order.ADATPM_addrug_manual_amt.value)+ Number(document.secure_order.MROA_medrev_manual_amt.value)+ Number(document.secure_order.IDFW_manual_amt.value);
+   //Number(document.secure_order.redbook_total.value) + Number(document.secure_order.redbook_updates_amount.value) + Number(document.secure_order.binder_amount.value) + Number(document.secure_order.cpc_alt_spec_man_amt.value) + Number(document.secure_order.CPCT_altspec_manual_amt.value) + Number(document.secure_order.naadatp_manual_amt.value);
+}  
+function number_total() 
+{   
+   return Number(document.secure_order.Redbooks.value) + Number(document.secure_order.redbook_updates.value) + Number(document.secure_order.cpc_alt_spec_manual_items.value) + Number(document.secure_order.CPCT_altspec_manual_items.value)+ Number(document.secure_order.DER_desemp_manual_items.value)+ Number(document.secure_order.ST_suptrain_manual_items.value)+ Number(document.secure_order.ADATPM_addrug_manual_items.value)+ Number(document.secure_order.MROA_medrev_manual_items.value)+ Number(document.secure_order.IDFW_manual_items.value);
+   //Number(document.secure_order.Redbooks.value) + Number(document.secure_order.redbook_updates.value) + Number(document.secure_order.binder_items.value) + Number(document.secure_order.cpc_alt_spec_manual_items.value) + Number(document.secure_order.CPCT_altspec_manual_items.value) + Number(document.secure_order.naadatp_manual_items.value);
+}  
+function cal_shipping()
+{
+var total_number=document.secure_order.total_items.value;
+if(total_number>2)
+{
+return Number(total_number)*10; 
+}
+else
+{
+return '25';	
+}
+} 
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<div id="header" class="wrap">
+	<div class="wrapper">
+		<!--<img src="images/header-bar4.jpg" />
+        <div class="headertxt"></div>-->
+		<img src="images/header2.jpg"/>
+	</div>
+</div>
+<div class="clear">
+	&nbsp;
+</div>
+<div id="menu" class="wrap">
+	<div class="wrapper">
+	</div>
+</div>
+<div class="clear">
+	&nbsp;
+</div>
+<div id="content" class="wrap">
+	<div class="wrapper">
+		<div align=center>
+			<table cellspacing=0 cellpadding=25 width=721>
+			<tbody>
+			<tr>
+				<td>
+					<form name="secure_order" action="datia_publication_order/datia_publication_order_mail.php" method="post">
+						<div align=center>
+							<h1><span style="font-size: 20px; color: #000099; ">Please allow 2 weeks for delivery of all publications</span></h1>
+							<table cellspacing=0 cellpadding=4 width=700 bgcolor=#c1ddf0 border=0>
+							<tbody>
+							<tr bgcolor=#db710d>
+								<td align="left" style="COLOR: white" bgcolor=black>
+									<span style="FONT-WEIGHT: bold">Contact Information:</span>
+								</td>
+							</tr>
+							</tbody>
+							</table>
+							<table cellspacing=0 cellpadding=4 width=700 bgcolor=#c1ddf0 border=0>
+							<tbody>
+							<tr>
+								<td align=right width="28%">
+									 Contact Name
+								</td>
+								<td width="72%">
+									<div align=left>
+										<input type=text name="Contact_Name" value="" size=20>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									Company
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_Company" value="" size=30>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									Street Address
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_StreetAddress" value="" size=30>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									City
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_City" value="" size=20>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									State/Province
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_State" value="" size=15>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									Zip
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_ZipCode" value="" size=15 maxlength=25>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									Work Phone
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_WorkPhone" value="" size=30>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									Fax
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="Contact_FAX" value="" size=30>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									<b><font color="#cc0000">E-mail</font></b>
+								</td>
+								<td>
+									<div align=left>
+										<input type=text name="email" value="" size=30>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align=right width="28%">
+									<font color="#cc0000">DATIA Member </font>
+								</td>
+								<td>
+									<font size="-1" face="arial,helvetica">
+									<input type=radio name="price" value="Yes" onclick="isMember('yes');">
+									</font>Yes <font size="-1" face="arial,helvetica">
+									<input type=radio name="price" value="No" onclick="isMember('no');">
+									</font>No
+								</td>
+							</tr>
+							</tbody>
+							</table>
+							<script type="text/javascript">
+								var manual_member_price = 60.00;
+								var manual_non_member_price = 80.00;
+
+								function isMember(choice){
+									
+									/* Update prices*/
+									switch(choice){
+										case 'yes':
+											console.log("yes");
+											//update costs
+											document.secure_order.redbook_price.value=195.00;
+											document.secure_order.IDFW_manual_price.value=495.00;
+
+											document.secure_order.DER_desemp_manual_price.value=manual_member_price;
+											document.secure_order.ST_suptrain_manual_price.value=manual_member_price;
+											document.secure_order.ADATPM_addrug_manual_price.value=manual_member_price;
+											document.secure_order.MROA_medrev_manual_price.value=manual_member_price;											
+											break;
+										case 'no':
+											console.log("no");
+											//update costs
+											document.secure_order.redbook_price.value=295.00;
+											document.secure_order.IDFW_manual_price.value=595.00;										
+
+											document.secure_order.DER_desemp_manual_price.value=manual_non_member_price;
+											document.secure_order.ST_suptrain_manual_price.value=manual_non_member_price;
+											document.secure_order.ADATPM_addrug_manual_price.value=manual_non_member_price;
+											document.secure_order.MROA_medrev_manual_price.value=manual_non_member_price;											
+											break;
+										default:
+											console.log("def");
+											// document.secure_order.DER_desemp_manual_price.value=manual_non_member_price;
+											// document.secure_order.ST_suptrain_manual_price.value=manual_non_member_price;
+											// document.secure_order.ADATPM_addrug_manual_price.value=manual_non_member_price;
+											// document.secure_order.MROA_medrev_manual_price.value=manual_non_member_price;
+									}	
+
+									//update amounts
+									document.secure_order.redbook_total.value=calvalue(secure_order.Redbooks.value,secure_order.redbook_price.value);
+									document.secure_order.IDFW_manual_amt.value=calvalue(secure_order.IDFW_manual_items.value,secure_order.IDFW_manual_price.value);
+
+									document.secure_order.DER_desemp_manual_amt.value=calvalue(secure_order.DER_desemp_manual_items.value,secure_order.DER_desemp_manual_price.value);
+									document.secure_order.ST_suptrain_manual_amt.value=calvalue(secure_order.ST_suptrain_manual_items.value,secure_order.ST_suptrain_manual_price.value);
+									document.secure_order.ADATPM_addrug_manual_amt.value=calvalue(secure_order.ADATPM_addrug_manual_items.value,secure_order.ADATPM_addrug_manual_price.value);
+									document.secure_order.MROA_medrev_manual_amt.value=calvalue(secure_order.MROA_medrev_manual_items.value,secure_order.MROA_medrev_manual_price.value);	
+
+									//update subtotal
+									document.secure_order.Subtotal_amt.value=totalvalue();									
+									console.log(totalvalue());
+
+									//update total items
+									document.secure_order.total_items.value=number_total();
+
+									//update total amount
+									document.secure_order.TOTAL.value=totalvalue();									
+															
+
+								}
+							</script>
+						</div>
+						<div align=center>
+						</div>
+						<div align=center>
+							<table width="700" border="0" cellspacing="0" cellpadding="4" bgcolor="#C1DDF0">
+							<tr>
+								<td class="whitebold" align="CENTER" bgcolor="Black">
+									<div align="left">
+										<a id="totals" name="totals"></a>Part 2: Publications
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" bgcolor="F7D2AF">
+									<table class="psr-body" width="100%" border="0" cellspacing="1" cellpadding="2" bgcolor="#c1ddf0">
+									<tr bgcolor="#cccccc" height="20">
+										<td width="52%" height="20">
+											<p>
+												<font color="black" face="arial,helvetica"><b>Description</b></font>
+											</p>
+										</td>
+										<td width="26%" height="20">
+										</td>
+										<td width="8%" height="20">
+											<p align="CENTER">
+												<b><font color="black" face="arial,helvetica">Number</font></b>
+											</p>
+										</td>
+										<td width="6%" height="20">
+											<p align="CENTER">
+												<b><font color="black" face="arial,helvetica">Cost</font></b>
+											</p>
+										</td>
+										<td width="8%" height="20">
+											<p align="CENTER">
+												<b><font color="black" face="arial,helvetica">Amount</font></b>
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											1. DATIA Red Book of Federal Regulations
+										</td>
+										<td>
+											<font size="-1" face="arial,helvetica">$295 Non-Members<br>
+											 $195 Members</font>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="Redbooks" size="6" onblur="secure_order.redbook_total.value=calvalue(secure_order.Redbooks.value,secure_order.redbook_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="redbook_price" value="295.00" readonly size="6" value="">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="redbook_total" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											2. <font face="arial,helvetica" color="#000000">DATIA Red Book Update Service</font><font face="arial,helvetica"><small>: <br>
+											 - receive monthly updates regarding any changes to regulations contained in the DATIA Red Book</small></font>
+										</td>
+										<td>
+											<div align="center">
+												<font size="-1" face="arial,helvetica">$149 per 12 months</font>
+											</div>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="redbook_updates" size="6" onblur="secure_order.redbook_updates_amount.value=calvalue(secure_order.redbook_updates.value,secure_order.redbook_updates_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="redbook_updates_price" value="149.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="redbook_updates_amount" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 3. CPC Manual <br/>
+											<!--<small>
+											(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="cpc_alt_spec_manual_items" size="6" onblur="secure_order.cpc_alt_spec_man_amt.value=calvalue(secure_order.cpc_alt_spec_manual_items.value,secure_order.cpc_alt_spec_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="cpc_alt_spec_manual_price" value="60.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="cpc_alt_spec_man_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 4. CPCT Manual <br/>
+											<small>
+											(available only to prior course attendees) </small>
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="CPCT_altspec_manual_items" size="6" onblur="secure_order.CPCT_altspec_manual_amt.value=calvalue(secure_order.CPCT_altspec_manual_items.value,secure_order.CPCT_altspec_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="CPCT_altspec_manual_price" value="60.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="CPCT_altspec_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 5. Designated Employer Representative Manual <br/>
+											<!--<small>
+											(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="DER_desemp_manual_items" size="6" onblur="secure_order.DER_desemp_manual_amt.value=calvalue(secure_order.DER_desemp_manual_items.value,secure_order.DER_desemp_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="DER_desemp_manual_price" value="80.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="DER_desemp_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 6. Supervisor Training Manual <br/>
+											<small>
+											<!--(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="ST_suptrain_manual_items" size="6" onblur="secure_order.ST_suptrain_manual_amt.value=calvalue(secure_order.ST_suptrain_manual_items.value,secure_order.ST_suptrain_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="ST_suptrain_manual_price" value="80.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="ST_suptrain_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 7. Advanced Drug and Alcohol Testing Program Management Manual <br/>
+											<!--<small>
+											(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="ADATPM_addrug_manual_items" size="6" onblur="secure_order.ADATPM_addrug_manual_amt.value=calvalue(secure_order.ADATPM_addrug_manual_items.value,secure_order.ADATPM_addrug_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="ADATPM_addrug_manual_price" value="80.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="ADATPM_addrug_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 8. Medical Review Officer Assistant Manual <br/>
+											<!--<small>
+											(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="MROA_medrev_manual_items" size="6" onblur="secure_order.MROA_medrev_manual_amt.value=calvalue(secure_order.MROA_medrev_manual_items.value,secure_order.MROA_medrev_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="MROA_medrev_manual_price" value="80.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="MROA_medrev_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											 9. IDFW Guide to State Drug Testing Laws <br/>
+											<!--<small>
+											(available only to prior course attendees) </small>-->
+										</td>
+										<td>
+											<font size="-1" face="arial,helvetica">$595 Non-Members<br>
+											 $495 Members</font>
+										</td>
+										<td>
+											<div align="center">
+												<input type="text" name="IDFW_manual_items" size="6" onblur="secure_order.IDFW_manual_amt.value=calvalue(secure_order.IDFW_manual_items.value,secure_order.IDFW_manual_price.value); secure_order.Subtotal_amt.value=totalvalue(); secure_order.total_items.value=number_total(); secure_order.TOTAL.value=totalvalue();">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input type="text" name="IDFW_manual_price" value="595.00" readonly size="6">
+											</div>
+										</td>
+										<td>
+											<div align="right">
+												<input readonly type="text" name="IDFW_manual_amt" value="" size="7">
+											</div>
+										</td>
+									</tr>									
+									<tr>
+										<td>
+											10. SUBTOTAL
+										</td>
+										<td>
+											TOTAL of items
+										</td>
+										<td>
+											<input readonly type="text" name="total_items" size="6" onblur="secure_order.CPCT_altspec_manual_amt.value=calvalue(secure_order.CPCT_altspec_manual_items.value,secure_order.CPCT_altspec_manual_price.value); secure_order.TOTAL.value=totalvalue();">
+										</td>
+										<td>
+										</td>
+										<td>
+											<input readonly type="text" name="Subtotal_amt" value="" size="7">
+										</td>
+								</tr>
+								<tr>
+									<td colspan="2">
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+										<input readonly type="text" name="Fedex_shipping_amt" value="" size="7">
+									</td>
+								</tr>
+								<tr>
+									<td colspan="4">
+										<p>
+											<b><font color="#cc0000" face="arial,helvetica">TOTAL </font></b>
+										</p>
+									</td>
+									<td>
+										<div align="right">
+											<p>
+												<font face="arial,helvetica">
+												<input readonly type="text" name="TOTAL" value="" size="7">
+												</font>
+											</p>
+										</div>
+									</td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						</table>
+						<br>
+						<table width="700" border="0" cellspacing="0" cellpadding="4" bgcolor="#C1DDF0">
+						<tr>
+							<td class="whitebold" colspan="2" align="CENTER" bgcolor="Black">
+								<div align="left">
+									<a id="payment" name="payment"></a>Part 3: Payment Information
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td align="RIGHT" valign="TOP" width="150">
+								<font color="#cc0000"><b>Payment Type:<br>
+								</b></font><br>
+							</td>
+							<td>
+								<div align="left">
+									<font size="-1" face="Arial, Verdana"><input type="radio" name="paymentType" value="MC" checked> MC<br>
+									<input type="radio" name="paymentType" value="Visa"> VISA<br>
+									<input type="radio" name="paymentType" value="Amex"> AMEX</font>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td align="RIGHT" valign="TOP" width="150">
+								<font size="-1" face="Arial, Verdana">Card #</font>
+							</td>
+							<td>
+								<div align="left">
+									<font size="-1" face="Arial, Verdana"><input type="Textbox" name="ccNumber" size="24"> Cardholder's Name </font><input type="Textbox" name="cardHolder_name" size="24">
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td align="RIGHT" valign="TOP" width="150">
+								<font size="-1" face="Arial, Verdana">Exp. Date</font>
+							</td>
+							<td>
+								<div align="left">
+									<font size="-1" face="Arial, Verdana"><input type="Textbox" name="expirationDate" size="10"></font>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" align="center" valign="middle">
+								<div align="center">
+									<font size="-1">This is a secure order form but if you prefer, you may print this out and fax to (202) 315-3579</font>
+									<p>
+										<font size="-1">Check payments should be mailed to DATIA • 1325 G Street, NW, Suite 500 #5001 • Washington, DC 20005</font>
+									</p>
+								</div>
+							</td>
+						</tr>
+						</table>
+						<input type="submit" name="Submit" value="Submit Form">
+						<input type="reset" value="Reset Form" name="reset">
+					</div>
+				</form>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+	</div>
+</div>
+</div>
+<div class="clear">
+&nbsp;
+</div>
+<div id="foot" class="wrap">
+<div class="wrapper">
+	<p>
+		<a href="http://datia.org">www.datia.org</a> &copy; 2006 DATIA. All Rights Reserved.
+	</p>
+</div>
+</div>
+<script language=JavaScript type=text/javascript>
+//You should create the validator only after the definition of the HTML form
+  var frmvalidator  = new Validator("secure_order");
+  frmvalidator.addValidation("Contact_Name","req");
+  frmvalidator.addValidation("Contact_Company","req")
+  frmvalidator.addValidation("email","maxlen=50");
+  frmvalidator.addValidation("email","req");
+  frmvalidator.addValidation("email","email");
+</script>
+</body>
+</html>

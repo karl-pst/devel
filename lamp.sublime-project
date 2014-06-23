@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{	
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"path_mapping":{
+				"/var/www" : "/D/Vagrant/lamp/www"
+			},
+			"url": "http://127.0.0.1:8080/sample/sample"
+		}
+	}
+}
